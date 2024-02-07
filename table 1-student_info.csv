@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+stu_rollno,int,NO,PRI,NULL,
+full_name,varchar(255),YES,,NULL,
+date_of_birth,date,YES,,NULL,
+gender,char(1),YES,,NULL,
+admission_date,date,YES,,NULL,

@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+S_roll_no,int,YES,MUL,NULL,
+ASOMs,varchar(20),YES,,NULL,
+Degree_certificate,varchar(20),YES,,NULL,
+LC_MC_TC,varchar(20),YES,,NULL,
+Date,date,YES,,NULL,
+Feedback,text,YES,,NULL,

@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+rollno,int,NO,PRI,NULL,
+course,varchar(255),YES,,NULL,
+percentage,"decimal(5,2)",YES,,NULL,
+grade,char(1),YES,,NULL,
+result,varchar(20),YES,,NULL,

@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+stu_rollno,int,YES,MUL,NULL,
+total_fees,"decimal(10,2)",YES,,NULL,
+discount,"decimal(10,2)",YES,,NULL,
+Amount_to_pay,"decimal(10,2)",YES,,NULL,
+outstanding_amount,"decimal(10,2)",YES,,NULL,
+status,varchar(20),YES,,NULL,

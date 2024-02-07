@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+roll_no,int,YES,MUL,NULL,
+Administration_status,varchar(20),YES,,NULL,
+Fees_status,varchar(20),YES,,NULL,
+Academic_status,varchar(20),YES,,NULL,
+Library_status,varchar(20),YES,,NULL,
